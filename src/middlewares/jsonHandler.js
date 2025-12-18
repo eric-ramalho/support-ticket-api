@@ -13,4 +13,3 @@ export async function jsonHalndler(request, response) {
 
   response.setHeader("Content-Type", "application/json");
 }
-console.log();
