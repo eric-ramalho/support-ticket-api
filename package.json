@@ -1,0 +1,12 @@
+{
+  "name": "api-para-ticket-de-suporte",
+  "version": "1.0.0",
+  "description": "Criando minha primeira API com um projeto de abertura de ticket",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Eric Ramalho",
+  "license": "ISC",
+  "type": "module"
+}
